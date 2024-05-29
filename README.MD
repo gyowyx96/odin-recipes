@@ -1,2 +1,2 @@
 #odin-recipe
-Tutorial for a web page creation all about recipes 
+HTML tutorial for a web basic page creation all about recipes 
